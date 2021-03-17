@@ -1,0 +1,10 @@
+{
+    "game": "Custom Slalom",
+    "field-image": "2021-slalom.png",
+    "field-corners": {
+      "top-left": [20, 20],
+      "bottom-right": [780, 400]
+    },
+    "field-size": [8.64, 4.32],
+    "field-unit": "meter"
+  }
